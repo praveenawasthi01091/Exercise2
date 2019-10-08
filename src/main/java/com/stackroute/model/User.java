@@ -1,4 +1,4 @@
-package com.stackroute;
+package com.stackroute.model;
 
 public class User {
     private String name;
